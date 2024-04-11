@@ -1,3 +1,5 @@
+[ASTGCN and Causal Inference integrated code not uploaded here - Waiting for my independent research to be graded]
+
 The prediction model aims to optimize the placement of bikes throughout the network using a SpatioTemporal Graph Convolutional Network (STGCN) model.
 
 ![image](https://github.com/srushtii-m/Jersey-City-CitiBike-Demand-Prediction/assets/146901085/c99bc22c-dbaf-4eb8-93c9-e0d856aa13a3)
